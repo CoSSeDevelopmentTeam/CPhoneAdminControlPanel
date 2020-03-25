@@ -6,9 +6,9 @@
         <title>AdminControlPanel</title>
         <description>権限者向けのサーバー管理アプリケーション。</description>
         <author>itsu</author>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
         <mcbeversion>1.14.0</mcbeversion>
-        <icon>https://google.com/</icon>
+        <icon>https://info.comorevi.net/images/favicon/logo_transparent.png</icon>
         <iconType>url</iconType>
     </application>
 
@@ -18,4 +18,15 @@
         <name>MainActivity</name>
         <main>dev.itsu.admincp.MainActivity</main>
     </activity>
+
+    <external-lang>
+        <lang region="en">
+            <title>AdminControlPanel</title>
+            <description>This is a application for operators.</description>
+        </lang>
+        <lang region="ja">
+            <title>AdminControlPanel</title>
+            <description>権限者向けのサーバー管理アプリケーション。</description>
+        </lang>
+    </external-lang>
 </manifest>
